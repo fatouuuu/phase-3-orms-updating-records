@@ -1,11 +1,10 @@
-# Updating Records in an ORM
+# Updating Records
 
-## Objectives
+## Learning Goals
 
-- Write a method that will update an existing database record once changes have
-  been made to that record's equivalent Ruby object.
-- Identify whether a Ruby object has already been persisted to the database.
-- Build a method that can _either_ find and update _or_ create a database record.
+- Write a method that will update an existing database record once changes have been made to that record's equivalent Ruby object
+- Identify whether a Ruby object has already been persisted to the database
+- Build a method that can _either_ find and update _or_ create a database record
 
 ## Updating Records
 
